@@ -1,2 +1,2 @@
-# s3BucketUsingTerraform
-Deployment of S3 Bucket using Terraform
+# s3UsingTerraform
+Deployment of S3 bucket and bucket policy using Terraform
